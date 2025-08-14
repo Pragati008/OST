@@ -1,0 +1,2 @@
+"performing merging with method 1"  
+in this method we are going to create a new branch and then a file in it, later we will merge it to the main branch in local machine and push to the remote repository.
